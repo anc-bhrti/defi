@@ -1,0 +1,22 @@
+
+.signup {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.token-container {
+    width: calc(33.33% - 10px);
+    margin-bottom: 20px; 
+}
+
+.token-container img {
+    width: 40%;
+    height: auto;
+}
+
+.token-container a {
+    display: block;
+    text-align: inline;
+    margin-top: 10px; 
+}

@@ -1,0 +1,15 @@
+
+.img-container {
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.full-width-image {
+    width: 100%;
+    display: block; 
+}
+h2{
+    font-size: 50px;
+    font-family: sans-serif;
+}
